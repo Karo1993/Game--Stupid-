@@ -3,6 +3,11 @@ This is a game called "Fool".<br>
 This is my student's record at the University.<br>
 It is written in C ++ with SFML library.<br>
 
+Compile:
+g++ main.cpp -I"C:\Users\Admin\Desktop\SFML-2.5.1\include" -L"C:\Users\Admin\Desktop\SFML-2.5.1\lib" -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio -o Fool.exe
+https://gcup.ru/forum/62-43738-667908-16-1427588637
+
+
 <h2>License</h2>
 
 The MIT License (MIT)<br>
